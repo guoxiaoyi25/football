@@ -14,6 +14,7 @@ require("./views/detail");
 require("./views/register");
 //设置默认显示页面
 SPA.config({
-	indexView:"index"
+	indexView:"guide"
 })
+console.log("hellow guide");
 console.log("hellow index");
