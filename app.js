@@ -14,5 +14,5 @@ require("./views/detail");
 require("./views/register");
 //设置默认显示页面
 SPA.config({
-	indexView:"guide"
+	indexView:"index"
 })
