@@ -16,3 +16,4 @@ require("./views/register");
 SPA.config({
 	indexView:"index"
 })
+console.log("hellow index");
